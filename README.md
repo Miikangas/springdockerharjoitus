@@ -1,2 +1,2 @@
 # springdockerharjoitus
-testaillaa githubbia springbootilla ja dockerilla
+Oppitunneilla luotu projekti jossa testaillaa githubbia springbootilla ja dockerilla
